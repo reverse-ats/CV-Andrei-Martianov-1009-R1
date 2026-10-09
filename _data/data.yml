@@ -1,0 +1,13 @@
+profession: 'programmer'
+name: 'Andrei Martianov'
+name-in-cyrillic: 'Андрей Мартьянов'
+hardskills: 'C# / .NET, ASP.NET, Entity Framework, LINQ, Unity3D (VR, Android, iOS), Photon Unity Networking, SteamVR, Oculus, Kinect, Raspberry Pi, Docker, Kubernetes, CI/CD, GitLab, Ansible, Proxmox, VMware, Hyper-V, Terraform, ArgoCD, Bash, Python, Go, JavaScript, TypeScript, SQL, BigQuery, Serilog, Seq, OpenTelemetry, Zabbix, Datadog, Grafana, LLM, RAG, N8N, Agentic development, Claude Code, MCP, Gemini CLI, Ollama'
+softskills: 'Keep calm & carry on, Always learn and share knowledge. Can''t ignore a good question, Cat-like curiosity. New framework? Let''s go!, Teamplayer or self-directed solo depending on the situation, Translator between tech and business people. Building bridges between worlds, Asynchronous communication advocate, Believe it or not I like refactoring'
+languages: 'English - C2, Spanish - B2, Russian - Native'
+bio: 'C# / .NET Software Engineer with 20 years of IT experience combining deep backend engineering in C# and .NET with a product mindset and hands-on platform experience. Built mission-critical ETL systems serving 50 producers, led R&D in AI and Blockchain, and shipped VR and mobile applications in Unity3D.'
+experience: 'Backend / DevOps at NDA-organization (2023-2025) doing R&D in AI and Blockchain; C# Developer, DevOps, PM at hoopsly (2021-2023) engineering a mission-critical C# ETL console application for 50 producers; C# Developer, Unity3D Developer, Game Designer at 3dru (2019-2021) developing VR and mobile applications in Unity3D; Project Manager at immersive theater quest room (2016-2018); Entrepreneur, PM, Game Designer, HR, Marketer at quest game escape room (2014-2016); System Administrator, Datacenter Engineer at ISP Datacenter (2011-2014); Tech Support, System Administrator at ISP (2005-2011).'
+
+contact:
+  telegram: 'alisa_rosenbaum'
+  email: 'andrei.martianov.1009.r1@reverse-ats.com'
+  phone: ''
